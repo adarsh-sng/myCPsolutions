@@ -1,2 +1,0 @@
- int min =*min_element(v.begin(),v.end());
- int maxi =*max_element(v.begin(),v.end());
