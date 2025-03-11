@@ -8,3 +8,6 @@ int maxi = *max_element(v.begin(), v.end());
 while ((x >> pos) & 1) pos++;
 // find first unset bit from right 
 ```
+```cpp
+
+```
