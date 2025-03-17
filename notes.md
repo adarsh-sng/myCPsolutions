@@ -9,5 +9,6 @@ while ((x >> pos) & 1) pos++;
 // find first unset bit from right 
 ```
 ```cpp
-
+   int ans = n/(k-1)+(n%(k-1)!=0);
+//    for ceil
 ```
